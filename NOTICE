@@ -1,0 +1,19 @@
+iBizSim 本地决策实验台
+Copyright (c) 2026 iBizSim Workbench contributors
+
+This is an unofficial, independent project. It is not affiliated with,
+endorsed by, or sponsored by the owners of iBizSim or any simulation or
+competition organizer. "iBizSim" and related names and marks are the
+property of their respective owners.
+
+All data included in this repository — including demo/demo-state.json and
+the built-in demo state in index.html — is synthetic and fictional. It does
+not represent any real company, team, competition, result, or personal data.
+
+The software performs no network access, no automated page interaction, no
+automated form filling, and no submission. Users are solely responsible for
+complying with the rules of their simulation environment and for verifying
+all parameters, decisions, and results.
+
+The software is provided for educational and personal decision-support use,
+without warranty of any kind. See LICENSE.

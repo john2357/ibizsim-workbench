@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Logs and local environment
+*.log
+.env
+.env.*
+*.local
+
+# Local test / build artifacts
+node_modules/
+test-results/
+playwright-report/
+__pycache__/
+*.pyc
+
+# Temporary screenshots and helper scripts generated during development
+_shot_*.png
+_sanitize.py
+_public_check*.py
+demo-state.local.json
